@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sniperpsycho7
 - 👀 I’m interested in building new things from scratch
-- 🌱 I’m currently learning python web and app development 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -do you really need me?? 
 - 😄 Pronouns: ...
